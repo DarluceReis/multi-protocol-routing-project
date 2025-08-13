@@ -57,9 +57,12 @@ Passive Interfaces: Routing information was configured not to be sent to the LAN
 
 Virtual Interfaces
 Loopback Interfaces were configured on the following routers to serve as their Router IDs and for testing purposes:
-MEXICO: 4.4.4.4
-COLOMBIA: 5.5.5.5
-EUA: 6.6.6.6
+| Router   | Loopback IP |
+|----------|------------|
+| **MEXICO**   | 4.4.4.4    |
+| **COLOMBIA** | 5.5.5.5    |
+| **EUA**      | 6.6.6.6    |
+
 
 --- 
 
@@ -71,3 +74,8 @@ SSH Access: The router in ESPANHA has SSH access enabled for the user "admin" wi
 Authentication:
 EIGRP: Configured with a key chain. The key name is "AWS", the key number is 10, and the password "cisco" with MD5 type encryption.
 OSPF: Configured with password authentication using "cisco" and MD5 encryption.
+
+---
+
+## Network Topology Diagram
+![Network Topology](images/routing-topology.PNG)
