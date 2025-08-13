@@ -1,5 +1,5 @@
 
-#🌐 Advanced Network Protocols
+🌐 Advanced Network Protocols
 This repository contains the configuration and a detailed explanation of a complex network topology I designed and implemented in Cisco Packet Tracer. The project demonstrates advanced skills in dynamic routing, protocol redistribution, and network security.
 
 ---
@@ -60,6 +60,8 @@ Loopback Interfaces were configured on the following routers to serve as their R
 MEXICO: 4.4.4.4
 COLOMBIA: 5.5.5.5
 EUA: 6.6.6.6
+
+--- 
 
 3. Security & Hardening
 Robust security measures were implemented to protect the network's integrity.
